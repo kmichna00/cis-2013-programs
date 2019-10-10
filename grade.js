@@ -30,7 +30,7 @@ if(intGradeOption===1)
     }
     
     alert("Your final grade is: " + stringFinalGrade);
-    throw new Error(); //kill switch
+    
 }
 
 if(intGradeOption===2)
