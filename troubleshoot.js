@@ -34,7 +34,7 @@ if(boolPrinting===true)
             { stringOutput=stringMessage2+ "\n" + stringMessage3+ "\n" + stringMessage4; }
             
         else
-            { stringOutput=stringmessage4+ "\n" + stringMessage5; }
+            { stringOutput=stringMessage4+ "\n" + stringMessage5; }
             
         }
      else
@@ -60,7 +60,7 @@ else
         }
         else
         {
-            if(boolRedLight===true)
+            if(boolRecognised===true)
             { stringOutput=stringMessage3; }
             
             else
